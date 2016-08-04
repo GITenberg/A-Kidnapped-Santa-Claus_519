@@ -1,0 +1,42 @@
+_repo: A-Kidnapped-Santa-Claus_519
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Baum, Lyman Frank
+    - Bancroft, Laura
+    - Van Dyne, Edith
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: 'First published in 1904, ""A Kidnapped Santa Claus"" by L. Frank Baum,
+  the author of The Wizard of Oz, describes the action of some uncommon events in
+  the land of Santa. Not far from the Laughing Valley where Santa and all his magical
+  helpers live, and beyond the Forest of Burzee, there stands a huge mountain that
+  contains the Cave of Demons. Each demon has a specialty: Selfishness, Envy, Hatred,
+  Malice, and Repentance. Because the promise of Santa puts all girls and boys on
+  their best behavior, the demons have hardly any visitors to their caves. In order
+  to remedy their dism.'
+gutenberg_bookshelf:
+- Christmas
+- Children's Literature
+gutenberg_issued: '1996-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Santa Claus -- Fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Christmas stories'
+- !lcsh 'Children''s literature'
+- GITenberg
+title: A Kidnapped Santa Claus
+url: http://www.gutenberg.org/ebooks/519
