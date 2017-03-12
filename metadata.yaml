@@ -1,5 +1,8 @@
 _repo: A-Kidnapped-Santa-Claus_519
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -20,6 +23,8 @@ description: 'First published in 1904, ""A Kidnapped Santa Claus"" by L. Frank B
   Malice, and Repentance. Because the promise of Santa puts all girls and boys on
   their best behavior, the demons have hardly any visitors to their caves. In order
   to remedy their dism.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/519#A-Kidnapped-Santa-Claus
 gutenberg_bookshelf:
 - Christmas
 - Children's Literature
